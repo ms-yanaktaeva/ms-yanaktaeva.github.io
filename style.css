@@ -21,11 +21,13 @@ p {
 
 nav ul {
     list-style-type: none;
+    text-aligght: right;
 }
 
 nav ul li {
     display: inline;
     margin-right: 25px;
+    text-aligght: right;
 }
 
 nav ul li a {
