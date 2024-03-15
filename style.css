@@ -59,7 +59,7 @@ footer {
 table,
 .main table{
     border-collapse: collapse;
-    margin: 20px 20px 20px 20px;
+    margin: 20px;
 }
 
 td, th{
