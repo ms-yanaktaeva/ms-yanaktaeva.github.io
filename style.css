@@ -56,7 +56,8 @@ footer {
     margin: 12px; 
 }
 
-table{
+table,
+.main table{
     border-collapse: collapse;
 }
 
