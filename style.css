@@ -52,6 +52,6 @@ footer {
 }
 
 .gallery img {
-    max-width: 80%;
+    width: 0.8em;
     margin: 12px; 
 }
