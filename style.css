@@ -1,5 +1,5 @@
 body {
-    font-family: Haderen Park, Verdana, Arial, sans-serif;
+    font-family: Verdana, Arial, sans-,serif;
     margin: 0;
     padding: 0;
 
@@ -13,6 +13,11 @@ header {
 
 h2 {
     text-align: center;
+}
+
+h3 {
+    font-Family: Arial, sans-serif;
+    font-size: 12px;
 }
 
 p {
